@@ -12,7 +12,7 @@
 
 **RekamMedis-Single** memilih pendekatan yang sama dengan sistem tulis di kertas. Sehingga anda tidak membutuhkan upaya lebih untuk menghafal bagaimana alur prosesnya, cara mengisinya, dan sebagainya.
 
-**RekamMedis-Single** juga \***\*memilih untuk tidak menyuguhkan bidang isian yang rumit. Tidak ada tampilan isian yang bermacam-macam. Penyederhanaan seperti ini sangat mungkin dilakukan, mengingat **RekamMedis-Single\*\* memang ditujukan untuk dokter praktek mandiri dengan masalah yang relatif sederhana.
+**RekamMedis-Single** juga memilih untuk tidak menyuguhkan bidang isian yang rumit. Tidak ada tampilan isian yang bermacam-macam. Penyederhanaan seperti ini sangat mungkin dilakukan, mengingat **RekamMedis-Single** memang ditujukan untuk dokter praktek mandiri dengan masalah yang relatif sederhana.
 
 ## Kapan saat yang tepat menggunakan RekamMedis-Single?
 
