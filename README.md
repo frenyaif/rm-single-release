@@ -2,6 +2,10 @@
 
 > _Versi pra-rilis! **RekamMedis-Single** sudah dapat digunakan, namun butuh pengujian lebih lanjut pada kasus operasional harian. Sebelum sampai pada waktu rilis tiba, aplikasi sangat mungkin mengalami pembaruan. Pengembang akan mengupayakan agar data yang telah tersimpan selalu kompatibel dengan pembaruan yang terjadi._
 
+![dark](asset/index1.png?raw=true)
+
+![light](asset/index2.png?raw=true)
+
 ## Apa itu RekamMedis-Single?
 
 **RekamMedis-Single** adalah sistem berbasis komputer yang berfungsi untuk mencatat data rekam medis pasien, yang secara khusus didesain untuk para dokter praktek mandiri dengan peralatan seminimal mungkin. Kata **Single** merupakan konsep yang diusung untuk merealisasikan tujuan tersebut. **RekamMedis-Single** hanya membutuhkan satu komputer (atau laptop), serta koneksi internet hanya pada saat dibutuhkan.
